@@ -49,7 +49,7 @@ This script allows you to patch the `libcocos2dcpp.so` file in Geometry Dash (v2
 ### Termux (Android)
 
 1. **Install Termux**:
-   - Install Termux from the Google Play Store.
+   - Install Termux from the Termux App Releases github or Google Play Store if you want, or in FDroid.
 
 2. **Set Up Environment**:
    - Open Termux and install necessary packages:
